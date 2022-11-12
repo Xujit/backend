@@ -1,0 +1,2 @@
+# talency-be
+Quarkus example
