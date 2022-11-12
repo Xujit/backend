@@ -14,10 +14,5 @@ jobs:
         uses: actions/setup-java@v1
         with:
           java-version: '11'
-      - name: Start containers
-        run: docker-compose -f docker-compose.yaml up -d
       - name: Build project with Maven in Quarkus
         run: mvn compile
-      - name: Stop containers
-        if: always()
-        run: docker-compose -f docker-compose.yaml down
