@@ -3,6 +3,8 @@ on:
   push:
     branches: [ main ]
   workflow_dispatch:    
+env:
+  MVN_TEST_COVERAGE: '-Dskip.code.coverage=false'  
 jobs:
   build:
     runs-on: ubuntu-latest
