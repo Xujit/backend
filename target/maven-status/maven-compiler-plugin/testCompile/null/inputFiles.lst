@@ -1,0 +1,8 @@
+/home/indu/talency/backend/src/test/java/com/codingaxis/hr/config/LocalDateProviderTest.java
+/home/indu/talency/backend/src/test/java/com/codingaxis/hr/config/mock/TalencyInfoMock.java
+/home/indu/talency/backend/src/test/java/com/codingaxis/hr/web/rest/UserJWTControllerTest.java
+/home/indu/talency/backend/src/test/java/com/codingaxis/hr/web/rest/ManagementInfoResourceTest.java
+/home/indu/talency/backend/src/test/java/com/codingaxis/hr/TestUtil.java
+/home/indu/talency/backend/src/test/java/com/codingaxis/hr/TestResources.java
+/home/indu/talency/backend/src/test/java/com/codingaxis/hr/web/rest/AccountResourceTest.java
+/home/indu/talency/backend/src/test/java/com/codingaxis/hr/ArchTest.java
