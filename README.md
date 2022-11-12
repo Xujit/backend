@@ -1,6 +1,6 @@
 # talency
 
-This application was generated using JHipster 6.10.5 and JHipster Quarkus 1.1.1, you can find documentation and help at [https://www.jhipster.tech/documentation-archive/v6.10.5](https://www.jhipster.tech/documentation-archive/v6.10.5).
+This application was generated using Talency 6.10.5 and Talency Quarkus 1.1.1, you can find documentation and help at [https://www.Talency.tech/documentation-archive/v6.10.5](https://www.Talency.tech/documentation-archive/v6.10.5).
 
 ## Development
 
@@ -8,7 +8,7 @@ To start your application in the dev profile, run:
 
     ./mvnw
 
-For further instructions on how to develop with JHipster, have a look at [Using JHipster in development][].
+For further instructions on how to develop with Talency, have a look at [Using Talency in development][].
 
 ## Building for production
 
@@ -24,7 +24,7 @@ To ensure everything worked, run:
 
     java -jar target/quarkus-app/*.jar
 
-Refer to [Using JHipster in production][] for more details.
+Refer to [Using Talency in production][] for more details.
 
 ### Packaging as native executable
 
@@ -57,7 +57,7 @@ For more information, refer to the [Running tests page][].
 
 ## Using Docker to simplify development (optional)
 
-You can use Docker to improve your JHipster development experience. A number of docker-compose configuration are available in the [src/main/docker](src/main/docker) folder to launch required third party services.
+You can use Docker to improve your Talency development experience. A number of docker-compose configuration are available in the [src/main/docker](src/main/docker) folder to launch required third party services.
 
 For example, to start a mysql database in a docker container, run:
 
@@ -67,11 +67,11 @@ To stop it and remove the container, run:
 
     docker-compose -f src/main/docker/mysql.yml down
 
-[jhipster homepage and latest documentation]: https://www.jhipster.tech
-[jhipster 6.10.5 archive]: https://www.jhipster.tech/documentation-archive/v6.10.5
-[using jhipster in development]: https://www.jhipster.tech/documentation-archive/v6.10.5/development/
-[using docker and docker-compose]: https://www.jhipster.tech/documentation-archive/v6.10.5/docker-compose
-[using jhipster in production]: https://www.jhipster.tech/documentation-archive/v6.10.5/production/
-[running tests page]: https://www.jhipster.tech/documentation-archive/v6.10.5/running-tests/
-[code quality page]: https://www.jhipster.tech/documentation-archive/v6.10.5/code-quality/
-[setting up continuous integration]: https://www.jhipster.tech/documentation-archive/v6.10.5/setting-up-ci/
+[Talency homepage and latest documentation]: https://www.Talency.tech
+[Talency 6.10.5 archive]: https://www.Talency.tech/documentation-archive/v6.10.5
+[using Talency in development]: https://www.Talency.tech/documentation-archive/v6.10.5/development/
+[using docker and docker-compose]: https://www.Talency.tech/documentation-archive/v6.10.5/docker-compose
+[using Talency in production]: https://www.Talency.tech/documentation-archive/v6.10.5/production/
+[running tests page]: https://www.Talency.tech/documentation-archive/v6.10.5/running-tests/
+[code quality page]: https://www.Talency.tech/documentation-archive/v6.10.5/code-quality/
+[setting up continuous integration]: https://www.Talency.tech/documentation-archive/v6.10.5/setting-up-ci/
